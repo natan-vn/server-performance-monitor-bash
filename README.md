@@ -13,3 +13,5 @@ O script `server-stats.sh` exibe:
 - Os cinco processos com maior uso de memória.
 
 Os valores representam uma amostra do estado da máquina no momento da execução. A memória livre segue o valor reportado pelo comando `free`; o uso de disco é consultado somente para a partição raiz.
+
+https://github.com/natan-vn/server-performance-monitor-bash
